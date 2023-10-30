@@ -15,15 +15,18 @@ input{
 
 #btn{
     background-color: yellow;
+    color: black;
     border-radius: 10px;
 }
 .presentBtn{
     background-color: green;
+    color: black;
     border-radius: 5px;
 }
 
 .absentBtn{
     background-color: red;
+    color: black;
     border-radius: 5px;
 }
 
